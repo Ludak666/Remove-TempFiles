@@ -1,0 +1,17 @@
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\bin\Debug\net6.0-windows\tempfiles.exe
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\bin\Debug\net6.0-windows\tempfiles.deps.json
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\bin\Debug\net6.0-windows\tempfiles.runtimeconfig.json
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\bin\Debug\net6.0-windows\tempfiles.dll
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\bin\Debug\net6.0-windows\tempfiles.pdb
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\tempfiles.csproj.AssemblyReference.cache
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\tempfiles.Form1.resources
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\tempfiles.csproj.GenerateResource.cache
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\tempfiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\tempfiles.AssemblyInfoInputs.cache
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\tempfiles.AssemblyInfo.cs
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\tempfiles.csproj.CoreCompileInputs.cache
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\tempfiles.dll
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\refint\tempfiles.dll
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\tempfiles.pdb
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\tempfiles.genruntimeconfig.cache
+C:\Users\Daklu\Desktop\PW\tempfiles\tempfiles\obj\Debug\net6.0-windows\ref\tempfiles.dll
